@@ -1,4 +1,5 @@
-f8b6839 (HEAD -> main, origin/main, origin/HEAD) update log.txt
+9bcbd6e (HEAD -> main, origin/main, origin/HEAD) Task 2.2
+f8b6839 update log.txt
 1e446ef Complete Task 2.1
 b45cd49 Complete Task 1.2
 6da1afb Complete Task 1.1
